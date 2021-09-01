@@ -3,7 +3,7 @@ public class HelloWorld {
         System.out.println("bledi");
     }
 
-    public void printNums(){
-        System.out.println("1,2,3");
-    }
+public void printNum(){
+    System.out.println("1,2,3");
+}
 }
