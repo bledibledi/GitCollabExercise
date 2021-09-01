@@ -5,7 +5,6 @@ public class HelloWorld {
         System.out.println("Hello group 10");
     }
 
-
 public void printNum(){
     System.out.println("1,2,3");
 }
