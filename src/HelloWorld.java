@@ -7,6 +7,6 @@ public void printNum(){
     System.out.println("1,2,3");
 }
 public void work(){
-    System.out.println("hi there");
+    System.out.println("hi there ");
 }
 }
