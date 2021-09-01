@@ -3,7 +3,11 @@ public class HelloWorld {
         System.out.println("bledi");
     }
 
+    public void operators(){
+        System.out.println("+,-,*,/");
+    }
 public void printNum(){
     System.out.println("1,2,3");
 }
+
 }
